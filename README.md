@@ -9,22 +9,38 @@ This repository contains my **Codeforces problem solutions**, organized by diffi
 
 ### 📂 Folder Structure
 Competitive-Programming/
+
 │
-├── README.md                  # Main repo description
-│
-├── Easy/                      # Problems rated 800–1200
+
+├── README.md/  ||                                     # Main repo description
+
+
+├── Easy/    ||                                         # Problems rated 800–1200
+
 │   ├── 
+
 │   ├── 
+
 │   └── ...
+
 │
-├── Medium/                    # Problems rated 1200–1800
+
+├── Medium/                              ||           # Problems rated 1200–1800
+
 │   ├── CF_202_Div2_A_CinemaLine.cpp
+
 │   ├── CF_
+
 │   └── ...
+
 │
-└── Hard/                      # Problems rated 1800+
-    ├── CF_
-    └── ...
+
+└── Hard/                ||                           # Problems rated 1800+
+
+|   ├── CF_
+    
+|   └── ...
+    
 
 
 ### 📝 Notes
