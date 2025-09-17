@@ -44,6 +44,6 @@ Competitive-Programming/
 
 
 ### 📝 Notes
-- Solutions are mainly written in C++, with a few early ones written in C.
+- Solutions are mainly written in C++, with a few ones written in C , java and python for dynamic competitive programming experience.
 - More problems will be added as I continue solving.  
 - My Codeforces profile: [Za_y_an](https://codeforces.com/profile/Za_y_an)
