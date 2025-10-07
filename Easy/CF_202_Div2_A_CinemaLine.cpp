@@ -1,6 +1,6 @@
 // Codeforces Round 202 Div2 A - Cinema Line
 // Difficulty: 1100 (Medium)
-// Tags: greedy, implementation
+// Tags: greedy, implementation 
 
 #include <iostream>
 #include <unordered_map>
